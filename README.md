@@ -8,6 +8,7 @@ A structured guide to mastering **Machine Learning**, covering fundamental conce
 - Pandas
 - Numpy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
 ## Content
