@@ -18,3 +18,4 @@ A structured guide to mastering **Machine Learning**, covering fundamental conce
 - 03 - Linear Regression
 - 04 - Polynomial Regression, Regularization, and K-Fold Cross Validation
 - 05 - Logistic Regression and Parameter Finetuning
+- 06 - Decision Tree
